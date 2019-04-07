@@ -1,0 +1,6 @@
+#±TITLE: Recipes 
+#±AUTHOR: Lars Nielsen 
+
+This is my collection of different recipes
+
+[[file:bread.org][Bread]]
