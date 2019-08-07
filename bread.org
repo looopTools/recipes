@@ -1,14 +1,13 @@
 * Bread
 
 ** Flat breads
-
-[[file:bread/flatbread_no_yeast.org][Flatbread with out yeast]]
-
-** White breads
-
-[[file:bread/dads_white_bread.org][Dads white bread]]
-
+- [[file:bread/flatbread_no_yeast.org][Flatbread with out yeast]]
 
 ** Pizza doughs
+- [[file:bread/euroman_pizza_dough_slow.org][Euroman Slow Pizza Dough]]
 
-[[file:bread/euroman_pizza_dough_slow.org][Euroman Slow Pizza Dough]]
+** White loafs 
+
+- [[file:bread/dads_white_bread.org][Dads white bread]]
+- [[file:bread/river_cottage_whitebread.org][River Cottage white bread]]
+
