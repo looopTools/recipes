@@ -3,4 +3,12 @@
 ** Flat breads
 
 [[file:bread/flatbread_no_yeast.org][Flatbread with out yeast]]
+
+** White breads
+
 [[file:bread/dads_white_bread.org][Dads white bread]]
+
+
+** Pizza doughs
+
+[[file:bread/euroman_pizza_dough_slow.org][Euroman Slow Pizza Dough]]

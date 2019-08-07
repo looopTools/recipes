@@ -1,5 +1,6 @@
 * Flatbread - without yeast 
 *Ingredients:*
+
 | Ingredient     | Amount | Unit        |
 |----------------+--------+-------------|
 | Wheat flour    | 125    | gram        |
