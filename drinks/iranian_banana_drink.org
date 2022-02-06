@@ -2,13 +2,13 @@
 
 Credits: Got the recipe from Niloofar Yazdani
 
-*Ingredients*
+** Ingredients 
 
 | Ingredient      | Amount | Unit   |
 |-----------------+--------+--------|
 | Well rip banana |      3 | pieces |
 | Milk            |    350 | ml     |
 
-*Recipe*
+** Recipe
 
 Breakup bananas and put in blender, pour over milk, blend till smooth. 
