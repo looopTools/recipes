@@ -3,6 +3,7 @@
 * Ingredients
 
   | Ingredients         | Amount | Unit  |
+  |---------------------+--------+-------|
   | Beets root          |    500 | g     |
   | Cherry tomatoes     |  10-15 | piece |
   | Spinach             |    200 | g     |
