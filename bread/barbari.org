@@ -11,7 +11,7 @@ This particular recipe will probably change, check the comments why
 
 | Ingredient   | Amount | Unit  |
 |--------------+--------+-------|
-| Fresh Yeast  |     25 | gram  |
+| Fresh Yeast  |     25 | grams |
 | Bread flour  |    730 | grams |
 | Salt         |      2 | tsp   |
 | Water (luke) |    450 | ml    |

@@ -1,0 +1,72 @@
+* Naples Style Pizza Dough
+
+This is a pizza dough that reassembles the style of Pizza from Naples.
+It gives great results in an oven and epic result in a pizza oven.
+
+The dough consist of a prefermented poolish and then the dough itself.
+The poolish requires over night proofing / fermenting.
+
+** Ingredients
+
+*** Poolish
+
+| Ingredient       | Amount | Unit  |
+|------------------+--------+-------|
+| Water            |    200 | grams |
+| Honey            |      5 | grams |
+| Active Dry yeast |      5 | grams |
+| Tipo 00 Flour    |    200 | grams |
+
+*** Pizza Dough
+
+| Ingredient     | Amount | Unit  |
+|----------------+--------+-------|
+| Poolish        |        |       |
+| Manitoba Flour |    300 | grams |
+| Tipo 00 Flour  |    200 | grams |
+| Water          |    300 | grams |
+| Salt           |     20 | grams |
+
+** Poolish Recipe:
+
+Pick a container that can hold twice the amount of volume of the ingredients.
+In the container mix the water, honey and yeast.
+Then add the flour and mix it.
+Leave uncovered for 15 minutes at room temperature.
+Cover the container with clean wrap or a lit.
+Let it sit at room temperature for an hour.
+Next put it in the fridge over night till time of being needed. 
+
+*** Notes:
+
+- I have no idea why it should be left uncovered for the first 15 minutes.
+  But it does create a different result in terms of flavour.
+  Maybe another strain of yeast is trapped from the air?
+- I recommend using clean film to wrap the container as a lit can pop off in my experience.
+  Gives quiet the pop 
+
+** Pizza dough
+
+In a bowl add the poolish and all the flour.
+In another container mix water and salt.
+Mix the flour into the poolish and add water along the way.
+The dough will be wet.
+Pour the dough out on to a clean working surface and kneed it, till it becomes more uniform.
+Cover the dough with a little oil and let it sit for 15 minutes.
+Gently lift the dough from the work surface and then form it into a tight ball.
+Leave it covered on the working surface for 1 hour covered with a damp towel.
+Put parchment paper a baking tray and sprinkle it with flour.
+Split the dough in four equal parts shape each into tight balls.
+Put them with good distance on the baking tray.
+Sprinkle flour on top of each dough ball.
+Let rest for two hours a room temperature.
+Then they are ready to use and can be shaped in to pizzas.
+In an own at full wack the pizza will bake in 5-12 minutes depending on your max heat.
+I find pizzas are done in 8-10 minutes.
+
+
+*** Notes:
+
+- If you are baking in a normal own, brush the edge of the pizza with a bit of olive oil or butter for nice brown and crispy edges
+- When shaping the pizza do touch the outer edge as little as possible.
+  It gives a more airy edge which feels like a real pizza from Italy
